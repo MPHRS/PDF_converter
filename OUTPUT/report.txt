@@ -1,0 +1,71 @@
+Input directory - D:\Desktop\Remote\Author24\pythonconvectortopdf\pdfconv\data
+ Output directory - D:\Desktop\Remote\Author24\pythonconvectortopdf\pdfconv\OUTPUT
+
+
+Cannot convert 1.doc to PDF
+37_13.gif successfully converted to PDF
+9622-16411-1-SM.pdf is already in pdf format
+Cannot convert Acute Toxicity_mouse_intraperitoneal_LD50.csv to PDF
+Cannot convert Around the World in 28 Languages.snb to PDF
+Cannot convert check_internet_connection.bat to PDF
+CRS216 Greek Syntax.pdf is already in pdf format
+DALL·E 2023-04-07 15.18.39 - The trail in the dense forest of a swampy area is overcast, oil painting , treeas all around, hyper realistyc .png successfully converted to PDF
+Cannot convert dfdf.xmb to PDF
+Diblocks.pdf is already in pdf format
+Cannot convert dsfsd.xpm to PDF
+example.txt successfully converted to PDF
+Cannot convert faithful.csv to PDF
+Cannot convert famouspaintings.azw3 to PDF
+Cannot convert famouspaintings.fb2 to PDF
+Cannot convert famouspaintings.lrf to PDF
+Cannot convert file-sample_100kB.doc to PDF
+Cannot convert file-sample_100kB.odt to PDF
+file-sample_1MB.docx successfully converted to PDF
+Cannot convert file_example_ODP_200kB.odp to PDF
+Cannot convert file_example_ODS_10.ods to PDF
+Cannot convert index.csv to PDF
+Cannot convert index.djvu to PDF
+Cannot convert index.doc to PDF
+index.docx successfully converted to PDF
+Cannot convert index.dsv to PDF
+Cannot convert index.epub to PDF
+Cannot convert index.fb2 to PDF
+Cannot convert index.geojson to PDF
+Cannot convert index.html to PDF
+Cannot convert index.json to PDF
+Cannot convert index.kml to PDF
+Cannot convert index.md to PDF
+Cannot convert index.msg to PDF
+Cannot convert index.odp to PDF
+Cannot convert index.ods to PDF
+Cannot convert index.odt to PDF
+Cannot convert index.rtf to PDF
+index.txt successfully converted to PDF
+Cannot convert index.vcf to PDF
+Cannot convert index.vsdx to PDF
+Cannot convert index.xml to PDF
+Cannot convert Kanye West - Follow God.mp3 to PDF
+link_de_los_programas (2).txt successfully converted to PDF
+Cannot convert med_uchet_4.rtf to PDF
+Cannot convert page.html to PDF
+Cannot convert sample.csv to PDF
+Cannot convert sample.djvu to PDF
+sample.pdf is already in pdf format
+Cannot convert sample1.doc to PDF
+Cannot convert sample1.epub to PDF
+Cannot convert sample1.html to PDF
+Cannot convert sample1.pdb to PDF
+Cannot convert sample2.kml to PDF
+Cannot convert sample2.ods to PDF
+sample2.pdf is already in pdf format
+sample2.txt successfully converted to PDF
+Cannot convert sample3.odp to PDF
+Cannot convert sample3.odt to PDF
+Cannot convert sample3.ott to PDF
+Cannot convert sample3.rtf to PDF
+Cannot convert srds.tga to PDF
+Cannot convert Sway.mobi to PDF
+Cannot convert yyhh.fts to PDF
+аа.docx successfully converted to PDF
+Шаблон презентации_ИТМО_на русском языке (1).pptx successfully converted to PDF
+Конвертация файлов завершена!

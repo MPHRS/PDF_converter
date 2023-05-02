@@ -1,0 +1,7 @@
+SIMPLE  =                    T / Written by IDL:  Wed Apr 27 15:02:57 2023
+BITPIX  =                  -64 / IEEE double precision floating point
+NAXIS   =                    2 / Number of array dimensions
+NAXIS1  =                    4 /
+NAXIS2  =                    4 /
+DATAMIN =  -9.506018643004995 /
+DATAMAX =   7
